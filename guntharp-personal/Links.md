@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T10:13:33-05:00
-modified: 2024-08-21T19:59:13-05:00
+modified: 2024-08-23T15:49:13-05:00
 ---
 # Links
 
@@ -34,5 +34,8 @@ modified: 2024-08-21T19:59:13-05:00
 #### Technical Topics
 - [A Practical Guide to fzf: Building a Git Explorer](https://thevaluable.dev/fzf-git-integration/)
 - [Examples · junegunn/fzf Wiki · GitHub](https://github.com/junegunn/fzf/wiki/examples#git)
+
+#### Tracker 
+- [Tracker 800SX Winch Headache Rack – Thumper Fab](https://thumperfab.com/products/tracker-800sx-winch-headache-rack)
 
 
