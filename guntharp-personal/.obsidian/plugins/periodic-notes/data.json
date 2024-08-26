@@ -10,8 +10,9 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "04 - Templates/Weekly - Template.md",
+    "folder": "03 - Periodic/02 - Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",
