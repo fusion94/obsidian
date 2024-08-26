@@ -1,5 +1,6 @@
 {
   "showInlineTitle": false,
   "livePreview": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "promptDelete": false
 }
