@@ -10,9 +10,15 @@
           {
             "id": "a285428e04825421",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md"
+              }
             }
           },
           {
@@ -129,12 +139,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5309e7aeb88b804b",
+  "active": "a285428e04825421",
   "lastOpenFiles": [
+    "Links.md",
+    "Welcome.md",
     "03 - Periodic/02 - Weekly/2024-W34.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-18.md",
     "03 - Periodic/02 - Weekly",
@@ -187,8 +199,6 @@
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-01.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-16.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-05.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-20.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/07-July/2024-07-30.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-12.md"
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-20.md"
   ]
 }
