@@ -14,6 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Links.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "efcbee74625af88e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
                 "mode": "preview",
                 "source": true
@@ -21,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,16 +177,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a285428e04825421",
+  "active": "efcbee74625af88e",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-24.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
     "Links.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-25.md",
     "Welcome.md",
     "03 - Periodic/02 - Weekly/2024-W34.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-18.md",
     "03 - Periodic/02 - Weekly",
     "04 - Templates/Weekly - Template.md",
     "2024-W34.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/Links.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/06 - Examples/Charts - Example.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/06 - Examples",
@@ -197,8 +214,6 @@
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/07-July/2024-07-26.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-19.md",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-01.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-16.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-05.md",
-    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-20.md"
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-16.md"
   ]
 }
