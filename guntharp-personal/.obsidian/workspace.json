@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md"
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md"
               }
             }
           },
@@ -175,9 +174,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5309e7aeb88b804b",
+  "active": "efcbee74625af88e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
     "Readwise/Books/American Huckster.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "Readwise/Articles/The New York Times.md",
@@ -202,7 +202,6 @@
     "Readwise/Articles/Sam Bankman-Fried on the Stand Is Even Worse Than We Expected.md",
     "Readwise/Articles/Apple Faces a Wave of Legal Woes, Including RICO Act Lawsuit Filed by Former Employee.md",
     "Readwise/Articles/This Executive Has a Unique Return-to-Office Strategy. Here’s How It’s Going.md",
-    "Readwise/Books/Pandora&#39;s Gamble.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
