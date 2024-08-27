@@ -17,5 +17,6 @@
   "obsidian-charts",
   "obsidian-tracker",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd"
 ]

@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "07067b8cf201211a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Examples/Meta Bind - Example.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
+                "file": "06 - Examples/Meta Bind - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
+                "file": "06 - Examples/Meta Bind - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md"
+                "file": "06 - Examples/Meta Bind - Example.md"
               }
             }
           },
@@ -163,24 +175,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "efcbee74625af88e",
+  "active": "07067b8cf201211a",
   "lastOpenFiles": [
-    "05 - Attachments/firewatch.jpg",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
+    "06 - Examples/Meta Bind - Example.md",
+    "05 - Attachments/firewatch.jpg",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-24.md",
     "Links.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-25.md",
