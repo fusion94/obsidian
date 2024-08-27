@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "aeaa3c2b3fa1cec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fdfa5dbd914fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a285428e04825421",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "efcbee74625af88e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71c5592d82d07209",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f32581710d0973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5309e7aeb88b804b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffec0b00e6220d34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6163c140f3fcef5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ff2ae308206b355",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02cf5129d3371ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a931126c2bf07fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39300d6e6b98236e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe6ab0ae1a58b003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbbe746532af1517",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md"
+              }
+            }
+          },
+          {
+            "id": "70d64251672033c1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "5309e7aeb88b804b",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
+    "06 - Examples/Meta Bind - Example.md",
+    "05 - Attachments/firewatch.jpg",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-24.md",
+    "Links.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-25.md",
+    "Welcome.md",
+    "03 - Periodic/02 - Weekly/2024-W34.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-18.md",
+    "03 - Periodic/02 - Weekly",
+    "04 - Templates/Weekly - Template.md",
+    "2024-W34.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/Links.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/06 - Examples/Charts - Example.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/06 - Examples",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/02 - Action/01 - Tasks/04 - TX Tasks.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/02 - Action/01 - Tasks",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/02 - Action",
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-23.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August",
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024",
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily",
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-23.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/04 - Templates/Daily - Template - New.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-15.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/04 - Templates/Daily - Template.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/04 - Templates",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-09.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-13.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August/2024-08-07.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/07-July/2024-07-27.md",
+    "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/07-July/2024-07-26.md"
+  ]
+}
