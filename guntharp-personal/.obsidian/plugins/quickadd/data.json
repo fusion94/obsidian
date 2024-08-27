@@ -4,9 +4,9 @@
       "id": "c3fa1c95-2b7a-4738-9e45-9b3344abc7bd",
       "name": "Capture Highlight",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
-      "captureTo": "",
+      "captureTo": "03 - Periodic/01 - Daily/{{DATE:YYYY}}/{{DATE:MM-MMMM}}/{{DATE:YYYY-MM-DD}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -14,15 +14,15 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "- **{{time}}** {{value}}"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
+        "enabled": true,
+        "after": "### Highlights",
+        "insertAtEnd": true,
         "considerSubsections": false,
-        "createIfNotFound": false,
+        "createIfNotFound": true,
         "createIfNotFoundLocation": "top"
       },
       "prepend": false,
@@ -41,7 +41,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.11.0",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {
@@ -105,6 +105,6 @@
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
     "setVersionAfterUpdateModalRelease": true,
-    "addDefaultAIProviders": false
+    "addDefaultAIProviders": true
   }
 }
