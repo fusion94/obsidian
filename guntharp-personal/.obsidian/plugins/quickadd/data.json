@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- **{{time}}** {{value}}"
+        "format": "- **{{time}}** {{value}}\\n"
       },
       "insertAfter": {
         "enabled": true,
@@ -50,7 +50,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- **{{time}}** {{value}}"
+        "format": "- **{{time}}** {{value}}\\n"
       },
       "insertAfter": {
         "enabled": true,
@@ -72,7 +72,7 @@
     },
     {
       "id": "f04724da-b9ad-4aa8-aef0-f7fb2ae5c7e4",
-      "name": "Capture Lowlight (copy)",
+      "name": "Capture Notes",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -85,11 +85,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "- **{{time}}** {{value}}"
+        "format": "- **{{time}}** {{value}}\\n"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "### Lowlights",
+        "after": "### Notes",
         "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": true,
