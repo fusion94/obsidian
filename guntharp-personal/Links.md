@@ -34,6 +34,7 @@ modified: 2024-08-23T15:49:13-05:00
 #### Technical Topics
 - [A Practical Guide to fzf: Building a Git Explorer](https://thevaluable.dev/fzf-git-integration/)
 - [Examples · junegunn/fzf Wiki · GitHub](https://github.com/junegunn/fzf/wiki/examples#git)
+- [Windows Terminal Custom Prompt Setup | Microsoft Learn](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
 
 #### Tracker 
 - [Tracker 800SX Winch Headache Rack – Thumper Fab](https://thumperfab.com/products/tracker-800sx-winch-headache-rack)

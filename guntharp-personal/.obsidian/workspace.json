@@ -32,8 +32,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "93c9a7df55736ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md"
+                "file": "Links.md"
               }
             }
           },
@@ -174,12 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5309e7aeb88b804b",
+  "active": "93c9a7df55736ec2",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "conflict-files-obsidian-git.md",
     "07 - Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
     "07 - Readwise/Books/American Huckster.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "07 - Readwise/Articles/The New York Times.md",
     "07 - Readwise/Books/Burn Book.md",
     "07 - Readwise/Books/The Fund.md",
