@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7c3dfe26df8f46cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md"
+                "file": "Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md"
               }
             }
           },
@@ -162,9 +175,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efcbee74625af88e",
+  "active": "5309e7aeb88b804b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Readwise/Books/American Huckster.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "Readwise/Articles/The New York Times.md",
     "Readwise/Books/Burn Book.md",
     "Readwise/Books/The Fund.md",
@@ -172,7 +187,6 @@
     "Readwise/Books/The Snake Charmer.md",
     "Readwise/Articles/The Case for Letting People Work From Home Forever.md",
     "Readwise/Articles/Bay Area Tech Is Forcing Workers Into Offices. She's Fighting Back..md",
-    "Readwise/Books/American Huckster.md",
     "Readwise/Articles/These SF Condos Are Selling Much Better Than All Others. Here's Why..md",
     "Readwise/Articles/Bitcoin Miner Marathon Digital Beats Q3 Earnings Estimates, but Misses on Revenue.md",
     "Readwise/Articles/Google Spent $26 Billion to Hide This Phone Setting From You.md",
@@ -189,7 +203,6 @@
     "Readwise/Articles/Apple Faces a Wave of Legal Woes, Including RICO Act Lawsuit Filed by Former Employee.md",
     "Readwise/Articles/This Executive Has a Unique Return-to-Office Strategy. Here’s How It’s Going.md",
     "Readwise/Books/Pandora&#39;s Gamble.md",
-    "Readwise/Articles/Pfizer More Than Doubles Price of Lifesaving Covid-19 Medication Paxlovid as US Transitions Out of Pandemic Phase.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
