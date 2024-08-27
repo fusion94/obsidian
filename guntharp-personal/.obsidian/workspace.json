@@ -34,9 +34,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d36d711f0b36bf7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e2e14747733511c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,17 +201,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5309e7aeb88b804b",
+  "active": "4e2e14747733511c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+    "Welcome.md",
+    "Links.md",
+    "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
     "06 - Examples/Meta Bind - Example.md",
     "05 - Attachments/firewatch.jpg",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-24.md",
-    "Links.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-25.md",
-    "Welcome.md",
     "03 - Periodic/02 - Weekly/2024-W34.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-18.md",
     "03 - Periodic/02 - Weekly",

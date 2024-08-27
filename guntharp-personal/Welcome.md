@@ -1,5 +1,13 @@
-This is your new *vault*.
+---
+created: 2024-08-19T15:47:57-05:00
+modified: 2024-08-27T08:15:13-07:00
+---
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+## Example Files
 
-When you're ready, delete this note and make the vault your own.
+```dataview
+TABLE WITHOUT ID Folder, rows.file.link AS Files
+FROM "06 - Examples"
+FLATTEN regexreplace(file.folder, "06 - Examples/", "") AS Folder
+GROUP BY Folder
+```
