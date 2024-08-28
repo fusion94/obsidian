@@ -1,6 +1,6 @@
 ---
 created: 2024-08-21T10:46:30-05:00
-modified: 2024-08-28T12:34:59-07:00
+modified: 2024-08-28T13:03:00-07:00
 ---
 # Charts Example
 
@@ -9,8 +9,8 @@ modified: 2024-08-28T12:34:59-07:00
 searchType: dvField
 searchTarget: Exercise
 folder: 03 - Periodic/01 - Daily
-startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
-endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
+startDate: <% tp.date.weekday("YYYY-MM-DD") %>
+endDate: <% tp.date.weekday("YYYY-MM-DD") %>
 bar:
     title: Exercise Log
     yAxisLabel: Time
