@@ -3,5 +3,8 @@
   "cssTheme": "Things",
   "enabledCssSnippets": [
     "banner"
-  ]
+  ],
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
