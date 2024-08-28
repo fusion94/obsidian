@@ -32,9 +32,20 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a286e1835a878736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Action/01 - Tasks/01 - Overall.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Templates/Weekly - Template.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Templates/Weekly - Template.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Templates/Weekly - Template.md"
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md"
               }
             }
           },
@@ -175,14 +186,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "519896aad7abed4b",
+  "active": "efcbee74625af88e",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+    "02 - Action/01 - Tasks/01 - Overall.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+    "04 - Templates/Weekly - Template.md",
+    "conflict-files-obsidian-git.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-12.md",
     "06 - Examples/Charts Weekly - Example.md",
-    "conflict-files-obsidian-git.md",
-    "04 - Templates/Weekly - Template.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-19.md",
     "06 - Examples/Charts - Example.md",
@@ -204,7 +216,6 @@
     "07 - Readwise/Articles/Bitcoin Miner Marathon Digital Beats Q3 Earnings Estimates, but Misses on Revenue.md",
     "07 - Readwise/Articles/Google Spent $26 Billion to Hide This Phone Setting From You.md",
     "07 - Readwise/Articles/The Hidden Costs for Remote Workers Moving Out of California.md",
-    "07 - Readwise/Articles/Actually, Yes, a Brand-New $1,600 Computer Should Come With More Than 8GB of RAM. - The Verge.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",
