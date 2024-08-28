@@ -4,6 +4,33 @@ modified: 2024-08-28T12:34:59-07:00
 ---
 # Charts Example
 
+
+```tracker
+searchType: dvField
+searchTarget: Exercise
+folder: 03 - Periodic/01 Daily
+startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
+endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
+bar:
+    title: Exercise Log
+    yAxisLabel: Time
+    yAxisUnit: m
+    yMin: 0
+    barColor: darkolivegreen
+```
+[!info]
+```tracker
+searchType: dvField
+searchTarget: Exercise
+datasetName: time
+folder: 03 Periodic/01 Daily
+startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
+endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
+summary:
+    template: "🏃Average: {{average(dataset(0))}}m"
+```
+
+
 #### random
 ```tracker
 searchType: frontmatter
