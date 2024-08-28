@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T15:47:57-05:00
-modified: 2024-08-27T12:10:03-07:00
+modified: 2024-08-27T20:54:54-07:00
 week: <% tp.date.now("YYYY-[W]ww", 0, tp.file.title, "YYYY-MM-DD") %>
 year: <% tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
 tags:
@@ -12,7 +12,7 @@ distance:
 calories (b): 
 sleep: 
 water: 
-banner:
+banner: "![[firewatch.jpg]]"
 ---
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
