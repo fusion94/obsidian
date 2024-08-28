@@ -8,7 +8,7 @@ modified: 2024-08-28T12:34:59-07:00
 ```tracker
 searchType: dvField
 searchTarget: Exercise
-folder: 03 - Periodic/01 Daily
+folder: 03 - Periodic/01 - Daily
 startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
 endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
 bar:
@@ -23,7 +23,7 @@ bar:
 searchType: dvField
 searchTarget: Exercise
 datasetName: time
-folder: 03 Periodic/01 Daily
+folder: 03 - Periodic/01 - Daily
 startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
 endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
 summary:
