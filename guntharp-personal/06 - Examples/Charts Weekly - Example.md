@@ -1,32 +1,23 @@
 ---
 created: 2024-08-21T10:46:30-05:00
-modified: 2024-08-28T15:26:15-07:00
+modified: 2024-08-28T15:46:42-07:00
 ---
 # Charts Example
 
 ```tracker
-searchType: dvField
-searchTarget: Exercise
+searchType: frontmatter
+searchTarget: steps
 folder: 03 - Periodic/01 - Daily
-startDate: <% tp.date.weekday("YYYY-MM-DD") %>
-endDate: <% tp.date.weekday("YYYY-MM-DD") %>
-bar:
-    title: Exercise Log
-    yAxisLabel: Time
-    yAxisUnit: m
-    yMin: 0
-    barColor: darkolivegreen
-```
-[!info]
-```tracker
-searchType: dvField
-searchTarget: Exercise
-datasetName: time
-folder: 03 - Periodic/01 - Daily
-startDate: <% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "gggg-[W]ww") %>
-endDate: <% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "gggg-[W]ww") %>
-summary:
-    template: "🏃Average: {{average(dataset(0))}}m"
+dateFormat: YYYY-[W]W
+startDate: 2024-W34
+endDate: 2024-W34
+line:	
+    title: Steps Tracker	
+    yAxisLabel: steps	
+    yAxisUnit: Lbs	
+    xAxisLabel: Time	
+    yMin: #
+    xAxisTickLabelFormat: MM-DD-YY
 ```
 
 

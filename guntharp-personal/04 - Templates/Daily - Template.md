@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T15:47:57-05:00
-modified: 2024-08-28T05:33:58-07:00
+modified: 2024-08-28T15:40:48-07:00
 week: <% tp.date.now("YYYY-[W]ww", 0, tp.file.title, "YYYY-MM-DD") %>
 year: <% tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
 tags:
@@ -69,3 +69,10 @@ action:
 ### Notes
 
 ### Tasks
+
+#### Due This Month
+
+```dataview
+TASK
+WHERE !completed AND due.month = date(today).month AND due.year = date(today).year
+```

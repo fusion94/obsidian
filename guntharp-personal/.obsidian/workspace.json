@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "3d1058d4c5bf7b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Templates/Daily - Template.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           },
           {
@@ -34,18 +46,43 @@
             }
           },
           {
-            "id": "a286e1835a878736",
+            "id": "faccacef05fda99a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Action/01 - Tasks/01 - Overall.md",
+                "file": "03 - Periodic/02 - Weekly/2024-W34.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "55512cd6eb887a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Examples/Charts Weekly - Example.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "07b50f0f629709c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Templates/Weekly - Template.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+                "file": "06 - Examples/Charts Weekly - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+                "file": "06 - Examples/Charts Weekly - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md"
+                "file": "06 - Examples/Charts Weekly - Example.md"
               }
             }
           },
@@ -186,20 +223,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efcbee74625af88e",
+  "active": "55512cd6eb887a6f",
   "lastOpenFiles": [
-    "02 - Action/01 - Tasks/01 - Overall.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
     "04 - Templates/Weekly - Template.md",
+    "06 - Examples/Charts Weekly - Example.md",
+    "03 - Periodic/02 - Weekly/2024-W34.md",
+    "02 - Action/01 - Tasks/01 - Overall.md",
     "conflict-files-obsidian-git.md",
+    "04 - Templates/Daily - Template.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-12.md",
-    "06 - Examples/Charts Weekly - Example.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-19.md",
     "06 - Examples/Charts - Example.md",
-    "03 - Periodic/02 - Weekly/2024-W34.md",
-    "04 - Templates/Daily - Template.md",
     "05 - Attachments/firewatch.jpg",
     "Links.md",
     "05 - Attachments/watchtower.jpg",
