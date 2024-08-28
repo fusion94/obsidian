@@ -1,6 +1,6 @@
 ---
 created: 2024-08-21T10:46:30-05:00
-modified: 2024-08-28T15:46:42-07:00
+modified: 2024-08-28T15:51:04-07:00
 ---
 # Charts Example
 
@@ -17,7 +17,6 @@ line:
     yAxisUnit: Lbs	
     xAxisLabel: Time	
     yMin: #
-    xAxisTickLabelFormat: MM-DD-YY
 ```
 
 

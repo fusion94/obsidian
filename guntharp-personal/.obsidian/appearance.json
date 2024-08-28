@@ -2,7 +2,10 @@
   "theme": "obsidian",
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "banner"
+    "banner",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
   ],
   "interfaceFontFamily": "Calibri",
   "textFontFamily": "",
