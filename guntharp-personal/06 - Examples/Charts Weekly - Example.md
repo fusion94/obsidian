@@ -1,6 +1,6 @@
 ---
 created: 2024-08-21T10:46:30-05:00
-modified: 2024-08-28T12:07:23-07:00
+modified: 2024-08-28T12:34:59-07:00
 ---
 # Charts Example
 
@@ -29,6 +29,14 @@ summary:
 
 #### The base data
 ```dataview
+TABLE steps
+FROM "03 - Periodic/01 - Daily" 
+GROUP BY dateformat(file.day, "yyyy-'W'WW") as week
+
+FLATTEN round(sum(nonnull(rows.steps)), 10)/(length(nonnull(rows.steps))) as steps 
+```
+
+```dataview
 TABLE weight, steps
 FROM "03 - Periodic/01 - Daily" 
 GROUP BY dateformat(file.day, "yyyy-'W'WW") as week
@@ -36,6 +44,7 @@ GROUP BY dateformat(file.day, "yyyy-'W'WW") as week
 FLATTEN trunc(sum(nonnull(rows.weight)))/length(nonnull(rows.weight)) as weight
 FLATTEN trunc(sum(nonnull(rows.steps)))/length(nonnull(rows.steps)) as steps 
 ```
+
 
 ####  The bar chart
 ```dataviewjs
