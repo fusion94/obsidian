@@ -33,8 +33,8 @@ TABLE weight, steps
 FROM "03 - Periodic/01 - Daily" 
 GROUP BY dateformat(file.day, "yyyy-'W'WW") as week
 
-FLATTEN sum(nonnull(rows.weight))/length(nonnull(rows.weight)) as weight
-FLATTEN sum(nonnull(rows.steps))/length(nonnull(rows.steps)) as steps 
+FLATTEN trunc(sum(nonnull(rows.weight)))/length(nonnull(rows.weight)) as weight
+FLATTEN trunc(sum(nonnull(rows.steps)))/length(nonnull(rows.steps)) as steps 
 ```
 
 ####  The bar chart
