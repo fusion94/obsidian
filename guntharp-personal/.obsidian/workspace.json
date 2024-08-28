@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d2515d3678ce98af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Examples/Charts Weekly - Example.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "519896aad7abed4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Templates/Weekly - Template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+                "file": "06 - Examples/Charts Weekly - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+                "file": "06 - Examples/Charts Weekly - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md"
+                "file": "06 - Examples/Charts Weekly - Example.md"
               }
             }
           },
@@ -162,11 +187,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efcbee74625af88e",
+  "active": "d2515d3678ce98af",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "03 - Periodic/02 - Weekly/2024-W34.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+    "06 - Examples/Charts Weekly - Example.md",
+    "04 - Templates/Weekly - Template.md",
+    "conflict-files-obsidian-git.md",
+    "06 - Examples/Charts - Example.md",
+    "03 - Periodic/02 - Weekly/2024-W34.md",
     "04 - Templates/Daily - Template.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "05 - Attachments/firewatch.jpg",
@@ -189,9 +217,6 @@
     "07 - Readwise/Articles/Google Turns to Regulators to Make Apple Open Up iMessage - The Verge.md",
     "07 - Readwise/Articles/Sam Bankman-Fried Gambled on a Trial and His Parents Lost - The Verge.md",
     "07 - Readwise/Articles/Apple’s Mac Accessories Are Stuck in the Past as It Debuts Its M3 iMacs - The Verge.md",
-    "07 - Readwise/Articles/Here’s What Apple Means When It Says Its Event Was ‘Shot on iPhone’ - The Verge.md",
-    "07 - Readwise/Articles/Bankman-Fried ‘Told You a Story, and He Lied to You,’ Prosecutors Tell the Jury  CNN Business.md",
-    "07 - Readwise/Articles/Proton’s Password Manager Roadmap Lacks the One Thing We Wish It Had.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",
