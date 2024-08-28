@@ -20,18 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3b3fd3c127c70a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Templates/Daily - Template.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -176,9 +164,9 @@
   },
   "active": "efcbee74625af88e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "04 - Templates/Daily - Template.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
+    "conflict-files-obsidian-git.md",
     "05 - Attachments/firewatch.jpg",
     "Links.md",
     "05 - Attachments/watchtower.jpg",
