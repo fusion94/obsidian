@@ -1,9 +1,29 @@
 ---
 created: 2024-08-21T10:46:30-05:00
-modified: 2024-08-28T11:18:02-07:00
+modified: 2024-08-28T11:35:58-07:00
 ---
 # Charts Example
 
+#### random
+```tracker
+searchType: frontmatter
+searchTarget: steps
+folder: 03 - Periodic/01 - Daily
+startDate: 2024-08-19
+endDate: 2024-08-25
+summary:
+     template: "Average: {{average()}} steps"
+```
+
+
+#### random 2
+```tracker
+searchType: frontmatter
+searchTarget: steps
+folder: 03 - Periodic/01 - Daily
+summary:
+     template: "Average: {{average()}} steps"
+```
 
 #### Week
 
