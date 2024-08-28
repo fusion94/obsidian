@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md"
+                "file": "Home.md"
               }
             }
           },
@@ -172,13 +172,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "129d078c176504a1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+    "Home.md",
     "06 - Examples/Multi-Column Callout.md",
     "04 - Templates/Daily - Template.md",
     "04 - Templates/Weekly - Template.md",
@@ -204,7 +206,6 @@
     "07 - Readwise/Articles/Bay Area Tech Is Forcing Workers Into Offices. She's Fighting Back..md",
     "07 - Readwise/Articles/These SF Condos Are Selling Much Better Than All Others. Here's Why..md",
     "07 - Readwise/Articles/Bitcoin Miner Marathon Digital Beats Q3 Earnings Estimates, but Misses on Revenue.md",
-    "07 - Readwise/Articles/Google Spent $26 Billion to Hide This Phone Setting From You.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",

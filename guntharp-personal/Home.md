@@ -1,10 +1,11 @@
 ---
 created: 2024-08-19T15:47:57-05:00
-modified: 2024-08-27T08:15:13-07:00
+modified: 2024-08-28T16:49:55-07:00
+banner: "![[watchtower.jpg]]"
+cssclasses:
 ---
 
-## Example Files
-
+# :LiHome: Home :LiHome:
 ```dataview
 TABLE WITHOUT ID Folder, rows.file.link AS Files
 FROM "06 - Examples"
