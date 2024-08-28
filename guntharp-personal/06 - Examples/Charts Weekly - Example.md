@@ -4,7 +4,6 @@ modified: 2024-08-28T13:03:00-07:00
 ---
 # Charts Example
 
-
 ```tracker
 searchType: dvField
 searchTarget: Exercise
