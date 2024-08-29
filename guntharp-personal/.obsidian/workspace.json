@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "06 - Examples/Multi-Column Callout.md",
                 "mode": "preview",
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "06 - Examples/Multi-Column Callout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "06 - Examples/Multi-Column Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "06 - Examples/Multi-Column Callout.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   "active": "129d078c176504a1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+    "06 - Examples/Meta Bind - Example.md",
     "Home.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
     "06 - Examples/Multi-Column Callout.md",
     "04 - Templates/Daily - Template.md",
     "04 - Templates/Weekly - Template.md",
@@ -205,7 +206,6 @@
     "07 - Readwise/Articles/The Case for Letting People Work From Home Forever.md",
     "07 - Readwise/Articles/Bay Area Tech Is Forcing Workers Into Offices. She's Fighting Back..md",
     "07 - Readwise/Articles/These SF Condos Are Selling Much Better Than All Others. Here's Why..md",
-    "07 - Readwise/Articles/Bitcoin Miner Marathon Digital Beats Q3 Earnings Estimates, but Misses on Revenue.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",

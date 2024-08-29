@@ -5,7 +5,7 @@ cssclasses:
   - wide-page
 ---
 
-## #### Example of Multi Column Callout
+## Example of Multi Column Callout
 
 > [!multi-column]
 >
