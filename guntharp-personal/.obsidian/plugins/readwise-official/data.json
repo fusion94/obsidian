@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 15930182,
-  "currentSyncStatusID": 15931187,
+  "lastSavedStatusID": 15931187,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -113,7 +113,8 @@
     "07 - Readwise/Books/The Fund.md": "39448231",
     "07 - Readwise/Books/Burn Book.md": "41405564",
     "07 - Readwise/Articles/The New York Times.md": "42180738",
-    "07 - Readwise/Articles/California Is Now the Second Home of Texas-Style Barbecue, According to Texas Monthly.md": "43612099"
+    "07 - Readwise/Articles/California Is Now the Second Home of Texas-Style Barbecue, According to Texas Monthly.md": "43612099",
+    "07 - Readwise/Books/Freddie Foreman - The Godfather of British Crime.md": "43614138"
   },
   "reimportShowConfirmation": true
 }
