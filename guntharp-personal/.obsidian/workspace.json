@@ -10,15 +10,13 @@
           {
             "id": "efcbee74625af88e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -32,9 +30,23 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f49d91e24cc1ca10",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Examples/Multi-Column Callout.md"
+                "file": "Home.md"
               }
             }
           },
@@ -172,17 +184,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "129d078c176504a1",
+  "active": "f49d91e24cc1ca10",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "06 - Examples/Multi-Column Callout.md",
     "06 - Examples/Meta Bind - Example.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
-    "06 - Examples/Multi-Column Callout.md",
     "04 - Templates/Daily - Template.md",
     "04 - Templates/Weekly - Template.md",
     "03 - Periodic/02 - Weekly/2024-W34.md",
