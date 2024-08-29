@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "efcbee74625af88e",
+            "id": "b3323606ccfa14e3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -35,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md"
               }
             }
           },
@@ -177,16 +178,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5309e7aeb88b804b",
+  "active": "b3323606ccfa14e3",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
+    "Home.md",
     "conflict-files-obsidian-git.md",
     "07 - Readwise/Books/Freddie Foreman - The Godfather of British Crime.md",
     "07 - Readwise/Articles/California Is Now the Second Home of Texas-Style Barbecue, According to Texas Monthly.md",
     "Links.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
     "06 - Examples/Multi-Column Callout.md",
-    "Home.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "06 - Examples/Meta Bind - Example.md",
     "04 - Templates/Daily - Template.md",
