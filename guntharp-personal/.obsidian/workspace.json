@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "885985901c805f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Examples/Headers - Example.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+                "file": "06 - Examples/Headers - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+                "file": "06 - Examples/Headers - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md"
+                "file": "06 - Examples/Headers - Example.md"
               }
             }
           },
@@ -178,11 +190,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "edf274a1d4e79a05",
+  "active": "885985901c805f89",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+    "06 - Examples/Headers - Example.md",
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
     "07 - Readwise/Books/Freddie Foreman - The Godfather of British Crime.md",
@@ -207,7 +220,6 @@
     "07 - Readwise/Articles/The New York Times.md",
     "07 - Readwise/Books/Burn Book.md",
     "07 - Readwise/Books/The Fund.md",
-    "07 - Readwise/Books/From Hollywood to Wrexham.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",
