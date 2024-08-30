@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "885985901c805f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Examples/Headers - Example.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Examples/Headers - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Examples/Headers - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Examples/Headers - Example.md"
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md"
               }
             }
           },
@@ -190,11 +178,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "885985901c805f89",
+  "active": "edf274a1d4e79a05",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
     "06 - Examples/Headers - Example.md",
     "conflict-files-obsidian-git.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-28.md",
