@@ -24,11 +24,23 @@
           {
             "id": "edf274a1d4e79a05",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4d6ee063cf864d1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md",
                 "mode": "preview",
                 "source": true
               },
@@ -36,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md"
+                "file": "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md"
               }
             }
           },
@@ -178,12 +190,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "edf274a1d4e79a05",
+  "active": "4d6ee063cf864d1a",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
+    "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md",
     "conflict-files-obsidian-git.md",
     "07 - Readwise/Articles/How the Raiders Are Setting the NFL’s Standard for Post-Playing Career Treatment.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
     "06 - Examples/Charts Weekly - Example.md",
     "06 - Examples/Headers - Example.md",
     "Home.md",
@@ -207,7 +220,6 @@
     "07 - Readwise/Articles/‘Great damage has been done’ Arab American leaders privately confront Biden administration.md",
     "07 - Readwise/Books/American Huckster.md",
     "07 - Readwise/Articles/The New York Times.md",
-    "07 - Readwise/Books/Burn Book.md",
     "07 - Readwise/Articles",
     "07 - Readwise/Books",
     "07 - Readwise",
