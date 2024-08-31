@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 15946776,
+  "lastSavedStatusID": 15960469,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -115,7 +115,8 @@
     "07 - Readwise/Articles/The New York Times.md": "42180738",
     "07 - Readwise/Articles/California Is Now the Second Home of Texas-Style Barbecue, According to Texas Monthly.md": "43612099",
     "07 - Readwise/Books/Freddie Foreman - The Godfather of British Crime.md": "43614138",
-    "07 - Readwise/Articles/How the Raiders Are Setting the NFL’s Standard for Post-Playing Career Treatment.md": "43643048"
+    "07 - Readwise/Articles/How the Raiders Are Setting the NFL’s Standard for Post-Playing Career Treatment.md": "43643048",
+    "07 - Readwise/Articles/Before Burning Man Was This Forgotten California Desert Party.md": "43670429"
   },
   "reimportShowConfirmation": true
 }
