@@ -20,23 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a22b8d4a08545e43",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md"
+                "file": "Home.md"
               }
             }
           },
@@ -178,12 +163,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a22b8d4a08545e43",
+  "active": "f49d91e24cc1ca10",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
+    "02 - Action/01 - Tasks/03 - CA Tasks.md",
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-03.md",
     "conflict-files-obsidian-git.md",
     "07 - Readwise/Books/King of the Cowboys.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-31.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-01.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
@@ -205,8 +192,6 @@
     "03 - Periodic/02 - Weekly/2024-W34.md",
     "02 - Action/01 - Tasks/01 - Overall.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-12.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-26.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-19.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
