@@ -46,9 +46,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "957d92e29bbd4bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cards.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
+                "file": "cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
+                "file": "cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md"
+                "file": "cards.md"
               }
             }
           },
@@ -190,8 +202,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cfa81ccb6354af0f",
+  "active": "957d92e29bbd4bce",
   "lastOpenFiles": [
+    "cards.md",
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-01.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
@@ -199,7 +213,6 @@
     "Home.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-05.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-04.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "02 - Action/01 - Tasks/03 - CA Tasks.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-03.md",
     "07 - Readwise/Books/King of the Cowboys.md",
@@ -218,7 +231,6 @@
     "06 - Examples/Multi-Column Callout.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "06 - Examples/Meta Bind - Example.md",
-    "04 - Templates/Daily - Template.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
