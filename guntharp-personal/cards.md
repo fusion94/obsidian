@@ -25,7 +25,7 @@ modified: 2024-09-07T16:28:11-07:00
 203 Garrett Williams, Arizona Cardinals
 - 225 Dorian Thompson-Robinson, Cleveland Browns
 - 237 Sam LaPorta, Detroit Lions
-- 244 C.J. Stroud, Houston Texans
+- 244 C.J. Stroud, Houston Texans (291/300)
 251 Brenton Strange, Jacksonville Jaguars
 264 Derius Davis, Los Angeles Chargers
 - 27 Chuba Hubbard, Carolina Panthers
