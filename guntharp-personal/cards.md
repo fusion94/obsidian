@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07T16:28:11-07:00
-modified: 2024-09-07T18:18:53-07:00
+modified: 2024-09-07T18:48:12-07:00
 ---
 
 ## 2023 Donruss Optic Premium Complete Set
@@ -11,15 +11,16 @@ modified: 2024-09-07T18:18:53-07:00
 31 Brian Urlacher, Chicago Bears
 38 Boomer Esiason, Cincinnati Bengals
 40 Ickey Woods, Cincinnati Bengals
-48 Emmitt Smith, Dallas Cowboys
+
 60 Barry Sanders, Detroit Lions
 70 Andre Johnson, Houston Texans
 73 Jalen Pitre, Houston Texans
 79 Michael Pittman Jr., Indianapolis Colts
 82 Fred Taylor, Jacksonville Jaguars
 
-200 Nick Chubb, Cleveland Browns
-251 Brenton Strange, Jacksonville Jaguars
+
+- 48 Emmitt Smith, Dallas Cowboys (272/300)
+
 
 - 109 Cam Akers, Minnesota Vikings (167/300)
 - 113 Matthew Stafford, Los Angeles Rams (20/300)
@@ -35,12 +36,14 @@ modified: 2024-09-07T18:18:53-07:00
 - 171 Fred Warner, San Francisco 49ers (41/300)
 - 177 Geno Smith, Seattle Seahawks (39/300)
 - 197 Montez Sweat, Chicago Bears (245/300)
+- 200 Nick Chubb, Cleveland Browns (148/300)
 
 ### Rookies
 - 203 Garrett Williams, Arizona Cardinals (140/300)
 - 225 Dorian Thompson-Robinson, Cleveland Browns (230/300)
 - 237 Sam LaPorta, Detroit Lions (284/300)
 - 244 C.J. Stroud, Houston Texans (291/300)
+- 251 Brenton Strange, Jacksonville Jaguars (263/300)
 - 264 Derius Davis, Los Angeles Chargers ( 231/300)
 - 283 Nolan Smith, Philadelphia Eagles (5/300)
 - 297 Tyjae Spears, Tennessee Titans (145/300)
