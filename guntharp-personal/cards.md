@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07T16:28:11-07:00
-modified: 2024-09-07T18:48:12-07:00
+modified: 2024-09-08T10:01:25-07:00
 ---
 
 ## 2023 Donruss Optic Premium Complete Set
@@ -41,4 +41,9 @@ modified: 2024-09-07T18:48:12-07:00
 - 264 Derius Davis, Los Angeles Chargers ( 231/300)
 - 283 Nolan Smith, Philadelphia Eagles (5/300)
 - 297 Tyjae Spears, Tennessee Titans (145/300)
+
+m  
+t
+n
+a
 
