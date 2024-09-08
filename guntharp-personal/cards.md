@@ -19,20 +19,23 @@ modified: 2024-09-07T18:18:53-07:00
 82 Fred Taylor, Jacksonville Jaguars
 
 109 Cam Akers, Minnesota Vikings
-113 Matthew Stafford, Los Angeles Rams
-117 Ricky Williams, Miami Dolphins
 133 Wes Welker, New England Patriots
 144 Kayvon Thibodeaux, New York Giants
-147 Saquon Barkley, New York Giants
-153 Joe Klecko, New York Jets
-158 Jalen Hurts, Philadelphia Eagles
-159 Randall Cunningham, Philadelphia Eagles
-161 Hines Ward, Pittsburgh Steelers
-162 Jerome Bettis, Pittsburgh Steelers
 
 200 Nick Chubb, Cleveland Browns
 251 Brenton Strange, Jacksonville Jaguars
 
+
+
+
+- 113 Matthew Stafford, Los Angeles Rams (20/300)
+- 117 Ricky Williams, Miami Dolphins (146/300)
+- 147 Saquon Barkley, New York Giants (258/300)
+- 153 Joe Klecko, New York Jets (185/300)
+- 158 Jalen Hurts, Philadelphia Eagles (236/300)
+- 159 Randall Cunningham, Philadelphia Eagles (212/300)
+- 161 Hines Ward, Pittsburgh Steelers (268/300)
+- 162 Jerome Bettis, Pittsburgh Steelers (267/300)
 - 171 Fred Warner, San Francisco 49ers (41/300)
 - 177 Geno Smith, Seattle Seahawks (39/300)
 - 197 Montez Sweat, Chicago Bears (245/300)
