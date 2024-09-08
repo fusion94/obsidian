@@ -32,7 +32,6 @@ modified: 2024-09-07T18:48:12-07:00
 - 177 Geno Smith, Seattle Seahawks (39/300)
 - 197 Montez Sweat, Chicago Bears (245/300)
 - 200 Nick Chubb, Cleveland Browns (148/300)
-
 ### Rookies
 - 203 Garrett Williams, Arizona Cardinals (140/300)
 - 225 Dorian Thompson-Robinson, Cleveland Browns (230/300)
@@ -42,7 +41,4 @@ modified: 2024-09-07T18:48:12-07:00
 - 264 Derius Davis, Los Angeles Chargers ( 231/300)
 - 283 Nolan Smith, Philadelphia Eagles (5/300)
 - 297 Tyjae Spears, Tennessee Titans (145/300)
-
-
-break #2
 
