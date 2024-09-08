@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07T16:28:11-07:00
-modified: 2024-09-07T18:03:47-07:00
+modified: 2024-09-07T18:18:53-07:00
 ---
 
 ## 2023 Donruss Optic Premium Complete Set
@@ -29,23 +29,23 @@ modified: 2024-09-07T18:03:47-07:00
 159 Randall Cunningham, Philadelphia Eagles
 161 Hines Ward, Pittsburgh Steelers
 162 Jerome Bettis, Pittsburgh Steelers
-171 Fred Warner, San Francisco 49ers
-177 Geno Smith, Seattle Seahawks
-197 Montez Sweat, Chicago Bears
 
 200 Nick Chubb, Cleveland Browns
-203 Garrett Williams, Arizona Cardinals
 251 Brenton Strange, Jacksonville Jaguars
 
-297 Tyjae Spears, Tennessee Titans
+- 171 Fred Warner, San Francisco 49ers (41/300)
+- 177 Geno Smith, Seattle Seahawks (39/300)
+- 197 Montez Sweat, Chicago Bears (245/300)
 
-
-- 283 Nolan Smith, Philadelphia Eagles 
+### Rookies
+- 203 Garrett Williams, Arizona Cardinals (140/300)
 - 225 Dorian Thompson-Robinson, Cleveland Browns (230/300)
 - 237 Sam LaPorta, Detroit Lions (284/300)
 - 244 C.J. Stroud, Houston Texans (291/300)
 - 264 Derius Davis, Los Angeles Chargers ( 231/300)
+- 283 Nolan Smith, Philadelphia Eagles (5/300)
+- 297 Tyjae Spears, Tennessee Titans (145/300)
 
-- 
+
 break #2
 
