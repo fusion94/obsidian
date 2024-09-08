@@ -54,7 +54,7 @@
               "type": "markdown",
               "state": {
                 "file": "cards.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -202,7 +202,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "70d64251672033c1",
+  "active": "957d92e29bbd4bce",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "cards.md",
