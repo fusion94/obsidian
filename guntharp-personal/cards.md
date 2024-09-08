@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07T16:28:11-07:00
-modified: 2024-09-07T17:54:12-07:00
+modified: 2024-09-07T18:03:47-07:00
 ---
 
 ## 2023 Donruss Optic Premium Complete Set
@@ -17,6 +17,7 @@ modified: 2024-09-07T17:54:12-07:00
 73 Jalen Pitre, Houston Texans
 79 Michael Pittman Jr., Indianapolis Colts
 82 Fred Taylor, Jacksonville Jaguars
+
 109 Cam Akers, Minnesota Vikings
 113 Matthew Stafford, Los Angeles Rams
 117 Ricky Williams, Miami Dolphins
@@ -31,17 +32,16 @@ modified: 2024-09-07T17:54:12-07:00
 171 Fred Warner, San Francisco 49ers
 177 Geno Smith, Seattle Seahawks
 197 Montez Sweat, Chicago Bears
+
 200 Nick Chubb, Cleveland Browns
 203 Garrett Williams, Arizona Cardinals
-225 Dorian Thompson-Robinson, Cleveland Browns
-
 251 Brenton Strange, Jacksonville Jaguars
 
-283 Nolan Smith, Philadelphia Eagles
 297 Tyjae Spears, Tennessee Titans
 
 
-
+- 283 Nolan Smith, Philadelphia Eagles 
+- 225 Dorian Thompson-Robinson, Cleveland Browns (230/300)
 - 237 Sam LaPorta, Detroit Lions (284/300)
 - 244 C.J. Stroud, Houston Texans (291/300)
 - 264 Derius Davis, Los Angeles Chargers ( 231/300)
