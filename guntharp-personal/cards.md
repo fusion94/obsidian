@@ -18,18 +18,14 @@ modified: 2024-09-07T18:18:53-07:00
 79 Michael Pittman Jr., Indianapolis Colts
 82 Fred Taylor, Jacksonville Jaguars
 
-109 Cam Akers, Minnesota Vikings
-133 Wes Welker, New England Patriots
-144 Kayvon Thibodeaux, New York Giants
-
 200 Nick Chubb, Cleveland Browns
 251 Brenton Strange, Jacksonville Jaguars
 
-
-
-
+- 109 Cam Akers, Minnesota Vikings (167/300)
 - 113 Matthew Stafford, Los Angeles Rams (20/300)
 - 117 Ricky Williams, Miami Dolphins (146/300)
+- 133 Wes Welker, New England Patriots (140/300)
+- 144 Kayvon Thibodeaux, New York Giants (116/300)
 - 147 Saquon Barkley, New York Giants (258/300)
 - 153 Joe Klecko, New York Jets (185/300)
 - 158 Jalen Hurts, Philadelphia Eagles (236/300)
