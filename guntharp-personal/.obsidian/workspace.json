@@ -24,15 +24,13 @@
           {
             "id": "0a6ae5067f6a739d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -50,13 +48,15 @@
           {
             "id": "957d92e29bbd4bce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "cards.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -205,6 +205,7 @@
   "active": "957d92e29bbd4bce",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
     "cards.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-01.md",
@@ -230,7 +231,6 @@
     "Links.md",
     "06 - Examples/Multi-Column Callout.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
-    "06 - Examples/Meta Bind - Example.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
