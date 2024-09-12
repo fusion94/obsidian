@@ -58,9 +58,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9578c305dee406b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51683f5cf9463bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards.md",
+                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards.md",
+                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards.md"
+                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md"
               }
             }
           },
@@ -202,16 +226,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "957d92e29bbd4bce",
+  "active": "51683f5cf9463bb5",
   "lastOpenFiles": [
+    "Home.md",
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
+    "cards.md",
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
-    "cards.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-01.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-06.md",
-    "Home.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-05.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-04.md",
     "02 - Action/01 - Tasks/03 - CA Tasks.md",
@@ -230,7 +255,6 @@
     "07 - Readwise/Articles/California Is Now the Second Home of Texas-Style Barbecue, According to Texas Monthly.md",
     "Links.md",
     "06 - Examples/Multi-Column Callout.md",
-    "03 - Periodic/01 - Daily/2024/08-August/2024-08-27.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
