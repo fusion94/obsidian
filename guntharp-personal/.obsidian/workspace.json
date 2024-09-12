@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
+                "file": "cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
+                "file": "cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md"
+                "file": "cards.md"
               }
             }
           },
@@ -226,11 +226,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51683f5cf9463bb5",
+  "active": "957d92e29bbd4bce",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
     "conflict-files-obsidian-git.md",
     "Home.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
     "cards.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
