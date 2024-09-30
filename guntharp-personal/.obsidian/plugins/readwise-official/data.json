@@ -9,6 +9,7 @@
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
+  "failedBooks": [],
   "booksIDsMap": {
     "07 - Readwise/Books/Makers.md": "27481819",
     "07 - Readwise/Books/Vagrant.md": "27481818",
