@@ -10,18 +10,31 @@
           {
             "id": "097bec6c8f5271ec",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "8dcaf02a1771d5d3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+                "mode": "preview",
+                "source": true
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md"
               }
             }
           },
@@ -164,11 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "097bec6c8f5271ec",
+  "active": "8dcaf02a1771d5d3",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+    "03 - Periodic/01 - Daily/2024/10-October",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-19.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-15.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-16.md",
@@ -192,7 +207,6 @@
     "07 - Readwise/Articles/Before Burning Man Was This Forgotten California Desert Party.md",
     "07 - Readwise/Articles/How the Raiders Are Setting the NFL’s Standard for Post-Playing Career Treatment.md",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-29.md",
-    "06 - Examples/Charts Weekly - Example.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
@@ -202,7 +216,6 @@
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/06 - Examples",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/02 - Action/01 - Tasks",
     "guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/guntharp-personal/02 - Action",
-    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August",
-    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024"
+    "guntharp-personal/guntharp-personal/guntharp-personal/03 - Periodic/01 - Daily/2024/08-August"
   ]
 }
