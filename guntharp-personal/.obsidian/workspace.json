@@ -22,13 +22,15 @@
           {
             "id": "90d32729dd4ff4c8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md"
               }
             }
           },
@@ -177,9 +179,10 @@
   },
   "active": "90d32729dd4ff4c8",
   "lastOpenFiles": [
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-29.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/10-October",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-19.md",
@@ -204,7 +207,6 @@
     "03 - Periodic/01 - Daily/2024/09-September",
     "03 - Periodic/01 - Daily/2024/08-August/2024-08-30.md",
     "07 - Readwise/Articles/Before Burning Man Was This Forgotten California Desert Party.md",
-    "07 - Readwise/Articles/How the Raiders Are Setting the NFL’s Standard for Post-Playing Career Treatment.md",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
     "07 - Readwise/Articles",
