@@ -46,7 +46,21 @@
             }
           },
           {
-            "id": "acc90efa10a39acd",
+            "id": "68c95dedbd0ab02a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a5eef82117784ee",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,14 +213,15 @@
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "acc90efa10a39acd",
+  "active": "9a5eef82117784ee",
   "lastOpenFiles": [
-    "06 - Examples/Charts - Example.md",
+    "Home.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
+    "06 - Examples/Charts - Example.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-22.md",
@@ -219,7 +234,6 @@
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-30.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-29.md",
     "03 - Periodic/01 - Daily/2024/10-October",
-    "Home.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-19.md",
     "conflict-files-obsidian-git.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-15.md",
