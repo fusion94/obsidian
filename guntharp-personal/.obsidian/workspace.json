@@ -38,6 +38,20 @@
           {
             "id": "9a5eef82117784ee",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "28e60a525ea6489c",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md"
               }
             }
           },
@@ -193,8 +207,9 @@
   },
   "active": "9a5eef82117784ee",
   "lastOpenFiles": [
-    "06 - Examples/Charts - Example.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+    "06 - Examples/Charts - Example.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
@@ -219,7 +234,6 @@
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-01.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
