@@ -38,18 +38,17 @@
           {
             "id": "9a5eef82117784ee",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Examples/Charts - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Examples/Charts - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Examples/Charts - Example.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md"
               }
             }
           },
@@ -192,10 +191,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af21f894a872b031",
+  "active": "9a5eef82117784ee",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "06 - Examples/Charts - Example.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
