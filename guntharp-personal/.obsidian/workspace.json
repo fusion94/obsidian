@@ -73,8 +73,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md"
+                "file": "06 - Examples/Charts - Example.md"
               }
             }
           },
@@ -217,10 +216,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2c952b9e8e317c1",
+  "active": "af21f894a872b031",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "06 - Examples/Charts - Example.md",
     "Home.md",
