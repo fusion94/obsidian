@@ -38,15 +38,13 @@
           {
             "id": "9a5eef82117784ee",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -60,9 +58,23 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a2c952b9e8e317c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a5eef82117784ee",
+  "active": "a2c952b9e8e317c1",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
     "06 - Examples/Charts - Example.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
@@ -233,7 +246,6 @@
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-02.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
