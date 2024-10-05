@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37fdfa5dbd914fa8",
+        "id": "94618d73a7f3f853",
         "type": "tabs",
         "children": [
           {
-            "id": "af21f894a872b031",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Examples/Charts - Example.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "68c95dedbd0ab02a",
+            "id": "4b4f8283b423ad81",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,45 +22,19 @@
             }
           },
           {
-            "id": "9a5eef82117784ee",
+            "id": "f202a437a578182b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "28e60a525ea6489c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a2c952b9e8e317c1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md"
+                "file": "06 - Examples/Charts - Example.md"
               }
             }
           },
@@ -217,13 +177,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2c952b9e8e317c1",
+  "active": "f202a437a578182b",
   "lastOpenFiles": [
+    "Home.md",
     "06 - Examples/Charts - Example.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-05.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-04.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-03.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
-    "Home.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-22.md",
@@ -245,7 +206,6 @@
     "cards.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-08.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-07.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-11.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
