@@ -24,6 +24,20 @@
           {
             "id": "9c65214a17556cc0",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-08.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b45234c7a105baa",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,9 +191,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c65214a17556cc0",
+  "active": "5b45234c7a105baa",
   "lastOpenFiles": [
     "Home.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-08.md",
     "06 - Examples/Charts - Example.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-22.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-20.md",
@@ -205,7 +220,6 @@
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-16.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-17.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-18.md",
-    "cards.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
