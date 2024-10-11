@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b4f8283b423ad81",
+            "id": "7779ec0cd902a834",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f8b1a44eb0dab453",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md"
               }
             }
           },
@@ -179,14 +162,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8b1a44eb0dab453",
+  "active": "7779ec0cd902a834",
   "lastOpenFiles": [
-    "06 - Examples/Charts - Example.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
-    "Home.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-10.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-09.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-08.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-09.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-10.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
+    "06 - Examples/Charts - Example.md",
+    "Home.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-22.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-20.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-19.md",
@@ -207,7 +191,6 @@
     "03 - Periodic/01 - Daily/2024/10-October",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-19.md",
     "conflict-files-obsidian-git.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-15.md",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
     "05 - Attachments/watchtower.jpg",
