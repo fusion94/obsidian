@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T19:47:26-05:00
-modified: 2024-08-23T11:42:14-05:00
+modified: 2024-10-12T08:33:33-05:00
 ---
 # Texas Tasks
 
@@ -28,6 +28,7 @@ modified: 2024-08-23T11:42:14-05:00
 - [ ] Empty Trailer #todo 
 - [ ] Organize Garage #todo 
 - [ ] Update tracker data from fitbit #todo 
+- [ ] Setup docking station on personal MBP #todo 
 
 ### Smoker 
 
