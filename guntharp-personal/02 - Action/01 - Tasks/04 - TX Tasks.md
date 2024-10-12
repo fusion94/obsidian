@@ -27,9 +27,14 @@ modified: 2024-08-23T11:42:14-05:00
 - [ ] Install Switching Gear - MPOE #todo 
 - [ ] Empty Trailer #todo 
 - [ ] Organize Garage #todo 
+
+### Smoker 
+
 - [ ] Smoker Restoration #todo #smoker
 	- [ ] Knock off surface rust #todo #smoker 
-	- [ ] Degrease 
+	- [ ] Degrease racks #todo #smoker 
+	- [ ] vacuum inside out #todo #smoker 
+	- [ ] sand outside out #todo #smoker 
 
 
 ## Recurring Tasks
