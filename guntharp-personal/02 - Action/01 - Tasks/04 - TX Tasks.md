@@ -27,6 +27,7 @@ modified: 2024-08-23T11:42:14-05:00
 - [ ] Install Switching Gear - MPOE #todo 
 - [ ] Empty Trailer #todo 
 - [ ] Organize Garage #todo 
+- [ ] Update tracker data from fitbit #todo 
 
 ### Smoker 
 
