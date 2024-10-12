@@ -22,8 +22,14 @@ modified: 2024-08-23T11:42:14-05:00
 - [ ] Install Weather Station #todo 
 - [ ] Install Moisture Sensors #todo 
 - [ ] Network to Workshop #todo 
-- [ ] Get bids on Office buildout #todo 
-- [ ] Schedule BEC Upgrade #todo 
+- [x] Get bids on Office buildout #todo ✅ 2024-10-03
+- [x] Schedule BEC Upgrade #todo ✅ 2024-10-03
+- [ ] Install Switching Gear - MPOE #todo 
+- [ ] Empty Trailer #todo 
+- [ ] Organize Garage #todo 
+- [ ] Smoker Restoration #todo #smoker
+	- [ ] Knock off surface rust #todo #smoker 
+	- [ ] Degrease 
 
 
 ## Recurring Tasks
