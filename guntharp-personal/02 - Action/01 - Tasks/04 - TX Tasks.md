@@ -28,7 +28,7 @@ modified: 2024-10-12T08:33:33-05:00
 - [ ] Empty Trailer #todo 
 - [ ] Organize Garage #todo 
 - [ ] Update tracker data from fitbit #todo 
-- [ ] Setup docking station on personal MBP #todo 
+- [x] Setup docking station on personal MBP #todo ✅ 2024-10-12
 
 ### Smoker 
 
