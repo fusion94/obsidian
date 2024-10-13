@@ -25,7 +25,7 @@ modified: 2024-10-13T06:57:23-05:00
 - [x] Get bids on Office buildout #todo ✅ 2024-10-03
 - [x] Schedule BEC Upgrade #todo ✅ 2024-10-03
 - [ ] Install Switching Gear - MPOE #todo 
-- [ ] Empty Trailer #todo 
+- [x] Empty Trailer #todo ✅ 2024-10-13
 - [ ] Organize Garage #todo 
 - [ ] Update tracker data from fitbit #todo 
 - [x] Setup docking station on personal MBP #todo ✅ 2024-10-12
