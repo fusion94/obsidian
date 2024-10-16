@@ -22,11 +22,23 @@
           {
             "id": "1e0e30cbf6f6709c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b1403ce0b451b962",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
                 "mode": "preview",
                 "source": true
               },
@@ -34,7 +46,7 @@
             }
           },
           {
-            "id": "b1403ce0b451b962",
+            "id": "8fe55c26ca2dc0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,10 +201,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b1403ce0b451b962",
+  "active": "8fe55c26ca2dc0e6",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
     "06 - Examples/Charts - Example.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
     "02 - Action/01 - Tasks/04 - TX Tasks.md",
     "02 - Action/01 - Tasks/01 - Overall.md",
     "02 - Action/01 - Tasks/03 - CA Tasks.md",
@@ -216,7 +229,6 @@
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-19.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
     "03 - Periodic/01 - Daily/2024/09-September/2024-09-23.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-24.md",
     "03 - Periodic/01 - Daily/2024/10-October",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
