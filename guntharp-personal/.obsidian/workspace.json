@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7779ec0cd902a834",
+            "id": "7a4d68e240a669db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md"
+                "file": "06 - Examples/Charts - Example.md"
               }
             }
           },
@@ -176,14 +176,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7779ec0cd902a834",
+  "active": "7a4d68e240a669db",
   "lastOpenFiles": [
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-17.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-10.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-12.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-15.md",
     "06 - Examples/Charts - Example.md",
