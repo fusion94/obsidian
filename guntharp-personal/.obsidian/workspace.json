@@ -22,43 +22,18 @@
           {
             "id": "1e0e30cbf6f6709c",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b1403ce0b451b962",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-17.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8fe55c26ca2dc0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Examples/Charts - Example.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Examples/Charts - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Examples/Charts - Example.md",
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Examples/Charts - Example.md"
+                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md"
               }
             }
           },
@@ -201,17 +176,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8fe55c26ca2dc0e6",
+  "active": "7779ec0cd902a834",
   "lastOpenFiles": [
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
-    "06 - Examples/Charts - Example.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-17.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-10.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-12.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-16.md",
+    "03 - Periodic/01 - Daily/2024/10-October/2024-10-15.md",
+    "06 - Examples/Charts - Example.md",
     "02 - Action/01 - Tasks/04 - TX Tasks.md",
     "02 - Action/01 - Tasks/01 - Overall.md",
     "02 - Action/01 - Tasks/03 - CA Tasks.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-11.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-12.md",
     "02 - Action/01 - Tasks/02 - General Tasks.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-01.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-02.md",
@@ -220,15 +198,12 @@
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-05.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-06.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-07.md",
-    "03 - Periodic/01 - Daily/2024/10-October/2024-10-10.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-08.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-09.md",
     "Home.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-22.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-20.md",
     "03 - Periodic/01 - Daily/2024/07-July/2024-07-19.md",
-    "03 - Periodic/01 - Daily/2024/07-July/2024-07-23.md",
-    "03 - Periodic/01 - Daily/2024/09-September/2024-09-23.md",
     "03 - Periodic/01 - Daily/2024/10-October",
     "03 - Periodic/01 - Daily/2024/09-September",
     "05 - Attachments/firewatch.jpg",
