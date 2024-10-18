@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e0e30cbf6f6709c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-18.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "9715a35b8ff0fef4",
             "type": "leaf",
             "state": {
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-18.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-18.md",
+                "file": "06 - Examples/Charts - Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic/01 - Daily/2024/10-October/2024-10-18.md"
+                "file": "06 - Examples/Charts - Example.md"
               }
             }
           },
@@ -176,10 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e0e30cbf6f6709c",
+  "active": "9715a35b8ff0fef4",
   "lastOpenFiles": [
-    "06 - Examples/Charts - Example.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-18.md",
+    "06 - Examples/Charts - Example.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-17.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-13.md",
     "03 - Periodic/01 - Daily/2024/10-October/2024-10-14.md",
